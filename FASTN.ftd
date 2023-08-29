@@ -1,15 +1,15 @@
 -- import: fastn
 
--- fastn.package: __user_name__.github.io/__repo_name__
-favicon: /-/__user_name__.github.io/__repo_name__/favicon.ico
+-- fastn.package: arpita-jaiswal.github.io/my-website-1
+favicon: /-/arpita-jaiswal.github.io/my-website-1/favicon.ico
 
 
 -- fastn.dependency: fastn-community.github.io/midnight-rush as theme
 -- fastn.dependency: fastn-community.github.io/midnight-rush-cs as cs
 -- fastn.dependency: fastn-community.github.io/midnight-rush-typography as typo
 
--- fastn.auto-import: __user_name__.github.io/__repo_name__/FASTN/ws
--- fastn.auto-import: __user_name__.github.io/__repo_name__/assets
+-- fastn.auto-import: arpita-jaiswal.github.io/my-website-1/FASTN/ws
+-- fastn.auto-import: arpita-jaiswal.github.io/my-website-1/assets
 -- fastn.auto-import: theme
 -- fastn.auto-import: theme/common
 
